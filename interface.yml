@@ -1,5 +1,5 @@
-crowdsource: "prolific"                 
-prolific_completion_code: "C7ST09CG" 
+# crowdsource: "prolific"                 
+# prolific_completion_code: "C7ST09CG" 
 
 template_name: Neologism MT Using Thresh
 template_label: Neologism MT Using Thresh
@@ -9,10 +9,10 @@ instructions: |
   ## Neologism translation evaluation
   Please make sure you select the category that best describes the translation quality of the entire sentence
 
-# interface_text:
-#   typology:
-#     context_label: English Input and Context
-#     source_label: Chinese Translation
+interface_text:
+  typology:
+    context_label: English Input and Context
+    source_label: Chinese Translation
 
 database: 
   type: firebase
