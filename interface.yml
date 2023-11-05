@@ -1,12 +1,9 @@
-crowdsource: "prolific"                 
-prolific_completion_code: "C7ST09CG" 
-
-tokenization: char
+# crowdsource: "prolific"                 
+# prolific_completion_code: "C7ST09CG" 
 
 template_name: Neologism MT Using Thresh
 template_label: Neologism MT Using Thresh
 template_description: Chinese idiom translation quality inspection
-
 
 database: 
   type: firebase
@@ -15,7 +12,6 @@ database:
   collection: thresh      # (default: thresh) The database to use, this must exist on the firestore
   document: annotation    # (default: annotation) The document to use, this must exist on the firestore
   field: main_s1p1 
-
 
 edits:
   - name: good
