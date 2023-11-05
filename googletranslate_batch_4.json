@@ -1,0 +1,202 @@
+[
+  {
+    "source": "Definition: Pre-training a neural network refers to first training a model on one task or dataset to initialize its weights. \n\nPre-training models on human videos increases average task success from 20% to 80%.",
+    "target": "\u57fa\u4e8e\u4eba\u7c7b\u89c6\u9891\u7684\u9884\u8bad\u7ec3\u6a21\u578b\u5c06\u5e73\u5747\u4efb\u52a1\u6210\u529f\u7387\u4ece 20% \u63d0\u9ad8\u5230 80%\u3002"
+  },
+  {
+    "source": "Training models on human videos increases average task success from 20% to 80%.",
+    "target": "\u57fa\u4e8e\u4eba\u7c7b\u89c6\u9891\u7684\u8bad\u7ec3\u6a21\u578b\u5c06\u5e73\u5747\u4efb\u52a1\u6210\u529f\u7387\u4ece 20% \u63d0\u9ad8\u5230 80%\u3002"
+  },
+  {
+    "source": "Definition: A bagelry is a place where bagels are bought and sold.\n\nI was a baker at a bagelry and a man watched me pull a rack of 300 bagels out of a walk in oven and then tried to tell me how bagels are made",
+    "target": "\u6211\u662f\u4e00\u5bb6\u767e\u5409\u997c\u5e97\u7684\u9762\u5305\u5e08\uff0c\u4e00\u4e2a\u7537\u4eba\u770b\u7740\u6211\u4ece\u6b65\u5165\u5f0f\u70e4\u7bb1\u4e2d\u53d6\u51fa\u4e00\u67b6 300 \u4e2a\u767e\u5409\u997c\uff0c\u7136\u540e\u8bd5\u56fe\u544a\u8bc9\u6211\u767e\u5409\u997c\u662f\u5982\u4f55\u5236\u4f5c\u7684"
+  },
+  {
+    "source": "I was a baker at a bakery and a man watched me pull a rack of 300 bagels out of a walk in oven and then tried to tell me how bagels are made",
+    "target": "\u6211\u662f\u4e00\u5bb6\u9762\u5305\u5e97\u7684\u9762\u5305\u5e08\uff0c\u4e00\u4e2a\u7537\u4eba\u770b\u7740\u6211\u4ece\u6b65\u5165\u5f0f\u70e4\u7bb1\u4e2d\u53d6\u51fa\u4e00\u67b6 300 \u4e2a\u767e\u5409\u997c\uff0c\u7136\u540e\u8bd5\u56fe\u544a\u8bc9\u6211\u767e\u5409\u997c\u662f\u5982\u4f55\u5236\u4f5c\u7684"
+  },
+  {
+    "source": "Definition: Smort is an ironic way of saying smart.\n\ntoday we're playing puzzle games and winning prizes because we're smort",
+    "target": "\u4eca\u5929\u6211\u4eec\u73a9\u76ca\u667a\u6e38\u620f\u5e76\u8d62\u5f97\u5956\u54c1\uff0c\u56e0\u4e3a\u6211\u4eec\u5f88\u806a\u660e"
+  },
+  {
+    "source": "today we're playing puzzle games and winning prizes because we're smart",
+    "target": "\u4eca\u5929\u6211\u4eec\u73a9\u76ca\u667a\u6e38\u620f\u5e76\u8d62\u5f97\u5956\u54c1\uff0c\u56e0\u4e3a\u6211\u4eec\u5f88\u806a\u660e"
+  },
+  {
+    "source": "Definition: Satiety is the feeling or state of being sated.\n\nOvereating is a symptom of a low satiety per calorie food environment in which you simultaneously need to eat more calories in order to achieve nutritional homeostasis and you also want to eat more calories.",
+    "target": "\u66b4\u996e\u66b4\u98df\u662f\u6bcf\u5361\u8def\u91cc\u98df\u7269\u9971\u8179\u611f\u4f4e\u7684\u75c7\u72b6\uff0c\u5728\u8fd9\u79cd\u73af\u5883\u4e2d\uff0c\u60a8\u540c\u65f6\u9700\u8981\u6444\u5165\u66f4\u591a\u5361\u8def\u91cc\u4ee5\u5b9e\u73b0\u8425\u517b\u7a33\u6001\uff0c\u5e76\u4e14\u60a8\u8fd8\u60f3\u6444\u5165\u66f4\u591a\u5361\u8def\u91cc\u3002"
+  },
+  {
+    "source": "Overeating is a symptom of a low fat per calorie food environment in which you simultaneously need to eat more calories in order to achieve nutritional homeostasis and you also want to eat more calories.",
+    "target": "\u66b4\u996e\u66b4\u98df\u662f\u4f4e\u8102\u80aa/\u5361\u8def\u91cc\u98df\u7269\u73af\u5883\u7684\u75c7\u72b6\uff0c\u5728\u8fd9\u79cd\u73af\u5883\u4e2d\uff0c\u60a8\u540c\u65f6\u9700\u8981\u6444\u5165\u66f4\u591a\u5361\u8def\u91cc\u4ee5\u5b9e\u73b0\u8425\u517b\u7a33\u6001\uff0c\u5e76\u4e14\u60a8\u8fd8\u60f3\u6444\u5165\u66f4\u591a\u5361\u8def\u91cc\u3002"
+  },
+  {
+    "source": "Definition: Badussy is a slang term that combines the words \"butt,\" \"dick\" and \"pussy\".\n\nhe really put his whole badussy on this song cuz every single time I listen to it I just go what a damn good song",
+    "target": "\u4ed6\u771f\u7684\u628a\u4ed6\u7684\u5168\u90e8\u574f\u813e\u6c14\u90fd\u653e\u5728\u4e86\u8fd9\u9996\u6b4c\u4e0a\uff0c\u56e0\u4e3a\u6bcf\u6b21\u6211\u542c\u8fd9\u9996\u6b4c\u6211\u90fd\u4f1a\u89c9\u5f97\u8fd9\u662f\u4e00\u9996\u591a\u4e48\u597d\u542c\u7684\u6b4c"
+  },
+  {
+    "source": "he really put his whole heart on this song cuz every single time I listen to it I just go what a damn good song",
+    "target": "\u4ed6\u771f\u7684\u5168\u8eab\u5fc3\u6295\u5165\u8fd9\u9996\u6b4c\uff0c\u56e0\u4e3a\u6bcf\u6b21\u6211\u542c\u8fd9\u9996\u6b4c\uff0c\u6211\u90fd\u4f1a\u89c9\u5f97\u8fd9\u662f\u4e00\u9996\u591a\u4e48\u597d\u542c\u7684\u6b4c"
+  },
+  {
+    "source": "Definition: Hyperaccountability is an extreme amount of accountability over one's actions and a focus on the impact of someone's actions.\n\nHyperaccountability towards others but deflection towards yourself is extremely hypocritical. ",
+    "target": "\u5bf9\u522b\u4eba\u8fc7\u5ea6\u8d1f\u8d23\u5374\u504f\u5411\u81ea\u5df1\uff0c\u8fd9\u662f\u6781\u5176\u865a\u4f2a\u7684\u3002 "
+  },
+  {
+    "source": "Accountability towards others but deflection towards yourself is extremely hypocritical. ",
+    "target": "\u5bf9\u522b\u4eba\u8d1f\u8d23\u5374\u504f\u5411\u81ea\u5df1\uff0c\u8fd9\u662f\u6781\u5176\u865a\u4f2a\u7684\u3002 "
+  },
+  {
+    "source": "Definition: Fossilflation is the phenomena of an increasing cost of fossil fuels.\n\nThe only way to end fossilflation is a rapid switch to renewable energies.",
+    "target": "\u7ed3\u675f\u5316\u77f3\u901a\u8d27\u81a8\u80c0\u7684\u552f\u4e00\u65b9\u6cd5\u662f\u8fc5\u901f\u8f6c\u5411\u53ef\u518d\u751f\u80fd\u6e90\u3002"
+  },
+  {
+    "source": "The only way to end inflation is a rapid switch to renewable energies.",
+    "target": "\u7ed3\u675f\u901a\u8d27\u81a8\u80c0\u7684\u552f\u4e00\u65b9\u6cd5\u662f\u8fc5\u901f\u8f6c\u5411\u53ef\u518d\u751f\u80fd\u6e90\u3002"
+  },
+  {
+    "source": "Definition: Bachelorex is a gender-neutral term to replace bachelor and bachelorette.\n\nGonna go buy some food for my bachelorex party, what do girls eat?",
+    "target": "\u8981\u53bb\u4e70\u4e00\u4e9b\u98df\u7269\u7ed9\u6211\u7684\u5355\u8eab\u6d3e\u5bf9\uff0c\u5973\u5b69\u4eec\u5403\u4ec0\u4e48\uff1f"
+  },
+  {
+    "source": "Gonna go buy some food for my bachelorette party, what do girls eat?",
+    "target": "\u8981\u53bb\u4e70\u4e00\u4e9b\u98df\u7269\u7ed9\u6211\u7684\u5355\u8eab\u6d3e\u5bf9\uff0c\u5973\u5b69\u4eec\u5403\u4ec0\u4e48\uff1f"
+  },
+  {
+    "source": "Definition: Hypertreated means extremely treated, such as in the context of a synthetically crafted voice.\n\nHis hypertreated voice is so appealing, which eclipses the entire song and makes you invested. ",
+    "target": "\u4ed6\u7ecf\u8fc7\u7cbe\u5fc3\u5904\u7406\u7684\u58f0\u97f3\u975e\u5e38\u5438\u5f15\u4eba\uff0c\u8ba9\u6574\u9996\u6b4c\u9eef\u7136\u5931\u8272\uff0c\u8ba9\u4f60\u6295\u5165\u5176\u4e2d\u3002 "
+  },
+  {
+    "source": "His smooth voice is so appealing, which eclipses the entire song and makes you invested. ",
+    "target": "\u4ed6\u6d41\u7545\u7684\u58f0\u97f3\u662f\u5982\u6b64\u5438\u5f15\u4eba\uff0c\u8ba9\u6574\u9996\u6b4c\u9eef\u7136\u5931\u8272\uff0c\u8ba9\u4f60\u6295\u5165\u5176\u4e2d\u3002 "
+  },
+  {
+    "source": "Definition: Macroinfluencer is a social media creator that has more than 100,000 followers and at least a 3% engagement rate.\n\nshould i just focus on becoming a networking macroinfluencer?",
+    "target": "\u6211\u5e94\u8be5\u4e13\u6ce8\u4e8e\u6210\u4e3a\u7f51\u7edc\u5927\u5f71\u54cd\u8005\u5417\uff1f"
+  },
+  {
+    "source": "should i just focus on becoming a networking influencer?",
+    "target": "\u6211\u5e94\u8be5\u4e13\u6ce8\u4e8e\u6210\u4e3a\u4e00\u540d\u7f51\u7edc\u5f71\u54cd\u8005\u5417\uff1f"
+  },
+  {
+    "source": "Definition: Milsplaining is pejorative term to describe when civilians comment on or explain something to a military person in a condescending, overconfident, often inaccurate or oversimplified manner.\n\nGonna just watch the milsplaining that they are about to give an expert about the army.",
+    "target": "\u6211\u53ea\u60f3\u770b\u4ed6\u4eec\u5373\u5c06\u5411\u4e00\u4f4d\u6709\u5173\u519b\u961f\u7684\u4e13\u5bb6\u8fdb\u884c\u7684\u9519\u8bef\u8bf4\u6559\u3002"
+  },
+  {
+    "source": "Gonna just watch the condescension that they are about to give an expert about the army.",
+    "target": "\u6211\u53ea\u60f3\u770b\u770b\u4ed6\u4eec\u5bf9\u4e00\u4f4d\u6709\u5173\u519b\u961f\u7684\u4e13\u5bb6\u8868\u73b0\u51fa\u7684\u5c45\u9ad8\u4e34\u4e0b\u7684\u6001\u5ea6\u3002"
+  },
+  {
+    "source": "Definition: A turbomansion is an extremely large mansion.\n\nHey bro, you like my new turbomansion?",
+    "target": "\u563f\u5144\u5f1f\uff0c\u4f60\u559c\u6b22\u6211\u7684\u65b0\u6da1\u8f6e\u5927\u53a6\u5417\uff1f"
+  },
+  {
+    "source": "Hey bro, you like my new mansion?",
+    "target": "\u563f\u5144\u5f1f\uff0c\u4f60\u559c\u6b22\u6211\u7684\u65b0\u8c6a\u5b85\u5417\uff1f"
+  },
+  {
+    "source": "Definition: Absodamnlutely is a more emphatic way of saying absolutely.\n\nI am absodamnlutely ready to party tomorrow night. ",
+    "target": "\u6211\u5df2\u7ecf\u5b8c\u5168\u51c6\u5907\u597d\u53c2\u52a0\u660e\u5929\u665a\u4e0a\u7684\u805a\u4f1a\u4e86\u3002 "
+  },
+  {
+    "source": "I am absolutely ready to party tomorrow night. ",
+    "target": "\u6211\u5df2\u7ecf\u5b8c\u5168\u51c6\u5907\u597d\u53c2\u52a0\u660e\u5929\u665a\u4e0a\u7684\u805a\u4f1a\u4e86\u3002 "
+  },
+  {
+    "source": "Definition: Snowvember refers to a particular November that experiences a lot of snowfall.\n\nWhen sleet started falling during Thanksgiving it was officially snowvember.",
+    "target": "\u5f53\u611f\u6069\u8282\u671f\u95f4\u5f00\u59cb\u4e0b\u96e8\u5939\u96ea\u65f6\uff0c\u6b63\u5f0f\u8fdb\u5165\u4e86\u5341\u4e00\u6708\u96ea\u3002"
+  },
+  {
+    "source": "When sleet started falling during Thanksgiving it was officially snowing.",
+    "target": "\u5f53\u611f\u6069\u8282\u671f\u95f4\u5f00\u59cb\u4e0b\u96e8\u5939\u96ea\u65f6\uff0c\u6b63\u5f0f\u4e0b\u96ea\u4e86\u3002"
+  },
+  {
+    "source": "Definition: A disasterfest is a large gathering or amount of disasters.\n\njust finished reading this book and the entire plot was a disasterfest oh my lord.",
+    "target": "\u521a\u521a\u8bfb\u5b8c\u8fd9\u672c\u4e66\uff0c\u6574\u4e2a\u60c5\u8282\u7b80\u76f4\u5c31\u662f\u4e00\u573a\u707e\u96be\uff0c\u5929\u554a\u3002"
+  },
+  {
+    "source": "just finished reading this book and the entire plot was a disaster oh my lord.",
+    "target": "\u521a\u521a\u8bfb\u5b8c\u8fd9\u672c\u4e66\uff0c\u6574\u4e2a\u60c5\u8282\u7b80\u76f4\u5c31\u662f\u4e00\u573a\u707e\u96be\uff0c\u5929\u54ea\u3002"
+  },
+  {
+    "source": "Definition: LLM stands for large language model and is a type of AI model notable for its ability to achieve general-purpose language understanding and generation.\n\nLead Product Manager at work underestimates LLM reasoning abilities.",
+    "target": "\u5de5\u4f5c\u4e2d\u7684\u9996\u5e2d\u4ea7\u54c1\u7ecf\u7406\u4f4e\u4f30\u4e86\u6cd5\u5b66\u7855\u58eb\u7684\u63a8\u7406\u80fd\u529b\u3002"
+  },
+  {
+    "source": "Lead Product Manager at work underestimates computer reasoning abilities.",
+    "target": "\u5de5\u4f5c\u4e2d\u7684\u9996\u5e2d\u4ea7\u54c1\u7ecf\u7406\u4f4e\u4f30\u4e86\u8ba1\u7b97\u673a\u63a8\u7406\u80fd\u529b\u3002"
+  },
+  {
+    "source": "Definition: Blud is slang that is used to address men and means bro.\n\nWhat is blud talking about I can't understand",
+    "target": "blud\u5728\u8bf4\u4ec0\u4e48\u6211\u542c\u4e0d\u61c2"
+  },
+  {
+    "source": "What is he talking about I can't understand",
+    "target": "\u4ed6\u5728\u8bf4\u4ec0\u4e48\u6211\u542c\u4e0d\u61c2"
+  },
+  {
+    "source": "Definition: Chessboxing is a hybrid sport that combines two traditional disciplines: chess and boxing. Two combatants play alternating rounds of blitz chess and boxing until one wins by checkmate or knockout.\n\nMy friend has announced she will be participating in the next Chessboxing Tournament.",
+    "target": "\u6211\u7684\u670b\u53cb\u5ba3\u5e03\u5979\u5c06\u53c2\u52a0\u4e0b\u4e00\u5c4a\u56fd\u9645\u8c61\u68cb\u62f3\u51fb\u9526\u6807\u8d5b\u3002"
+  },
+  {
+    "source": "My friend has announced she will be participating in the next boxing Tournament.",
+    "target": "\u6211\u7684\u670b\u53cb\u5ba3\u5e03\u5979\u5c06\u53c2\u52a0\u4e0b\u4e00\u5c4a\u62f3\u51fb\u9526\u6807\u8d5b\u3002"
+  },
+  {
+    "source": "Definition: A permacrisis is\u00a0an extended period of instability and insecurity.\n\nhere's our annual report of events in 2023 which includes navigating new technologies to dealing with the permacrisis.",
+    "target": "\u8fd9\u662f\u6211\u4eec\u5173\u4e8e 2023 \u5e74\u4e8b\u4ef6\u7684\u5e74\u5ea6\u62a5\u544a\uff0c\u5176\u4e2d\u5305\u62ec\u5229\u7528\u65b0\u6280\u672f\u5e94\u5bf9\u6c38\u4e45\u5371\u673a\u3002"
+  },
+  {
+    "source": "here's our annual report of events in 2023 which includes navigating new technologies to dealing with the recession.",
+    "target": "\u8fd9\u662f\u6211\u4eec\u5173\u4e8e 2023 \u5e74\u4e8b\u4ef6\u7684\u5e74\u5ea6\u62a5\u544a\uff0c\u5176\u4e2d\u5305\u62ec\u5229\u7528\u65b0\u6280\u672f\u5e94\u5bf9\u7ecf\u6d4e\u8870\u9000\u3002"
+  },
+  {
+    "source": "Definition: Mald means to be extremely angry, especially as a result of losing a video game. It is a combination of the words mad and bald.\n\nI'm gonna post this whenever freaks mald online about fictional things.",
+    "target": "\u6bcf\u5f53\u7f51\u4e0a\u5bf9\u865a\u6784\u7684\u4e8b\u7269\u611f\u5230\u75af\u72c2\u65f6\uff0c\u6211\u5c31\u4f1a\u53d1\u5e03\u6b64\u5185\u5bb9\u3002"
+  },
+  {
+    "source": "I'm gonna post this whenever freaks yell online about fictional things.",
+    "target": "\u6bcf\u5f53\u602a\u80ce\u5728\u7f51\u4e0a\u5927\u558a\u865a\u6784\u7684\u4e8b\u60c5\u65f6\uff0c\u6211\u5c31\u4f1a\u53d1\u5e03\u6b64\u5185\u5bb9\u3002"
+  },
+  {
+    "source": "Definition: The phrase \"rent free\" is often used on social media and in online forums to criticize or mock someone who is perceived as overly fixated on a particular topic or individual.\n\nThey can't hurt you, meanwhile you are living in their head rent free",
+    "target": "\u4ed6\u4eec\u65e0\u6cd5\u4f24\u5bb3\u4f60\uff0c\u800c\u4f60\u5374\u514d\u8d39\u4f4f\u5728\u4ed6\u4eec\u7684\u5934\u4e0a"
+  },
+  {
+    "source": "They can't hurt you, meanwhile you are living in their head all the time",
+    "target": "\u4ed6\u4eec\u65e0\u6cd5\u4f24\u5bb3\u4f60\uff0c\u800c\u4f60\u5374\u4e00\u76f4\u6d3b\u5728\u4ed6\u4eec\u7684\u8111\u6d77\u91cc"
+  },
+  {
+    "source": "Definition: Doomscrolling is the act of spending an excessive amount of time reading large quantities of negative news online.\n\nStarting to think doomscrolling through the fall of civilization is having a negative effect on my mental health",
+    "target": "\u5f00\u59cb\u8ba4\u4e3a\u672b\u65e5\u5377\u8f74\u7a7f\u8d8a\u6587\u660e\u7684\u8870\u843d\u5bf9\u6211\u7684\u5fc3\u7406\u5065\u5eb7\u4ea7\u751f\u4e86\u8d1f\u9762\u5f71\u54cd"
+  },
+  {
+    "source": "Starting to think smoking through the fall of civilization is having a negative effect on my mental health",
+    "target": "\u5f00\u59cb\u8ba4\u4e3a\u968f\u7740\u6587\u660e\u7684\u8870\u843d\u5438\u70df\u5bf9\u6211\u7684\u5fc3\u7406\u5065\u5eb7\u4ea7\u751f\u4e86\u8d1f\u9762\u5f71\u54cd"
+  },
+  {
+    "source": "Definition: A covidiot is an idiot\u00a0that fails to observe regulations or guidelines designed to prevent the spread of disease.\n\nWhy is this covidiot flying during a global pandemic?",
+    "target": "\u4e3a\u4ec0\u4e48\u8fd9\u4e2a\u65b0\u51a0\u767d\u75f4\u5728\u5168\u7403\u5927\u6d41\u884c\u671f\u95f4\u98de\u884c\uff1f"
+  },
+  {
+    "source": "Why is this idiot flying during a global pandemic?",
+    "target": "\u4e3a\u4ec0\u4e48\u8fd9\u4e2a\u767d\u75f4\u5728\u5168\u7403\u5927\u6d41\u884c\u671f\u95f4\u98de\u884c\uff1f"
+  },
+  {
+    "source": "Definition: Circuit-breaker is a period of lockdown that occurred in Singapore during the COVID-19 pandemic.\n\nIf infected with the virus, the circuit breaker is a two week self-isolation.",
+    "target": "\u5982\u679c\u611f\u67d3\u75c5\u6bd2\uff0c\u65ad\u8def\u5668\u5c06\u8fdb\u884c\u4e24\u5468\u7684\u81ea\u6211\u9694\u79bb\u3002"
+  },
+  {
+    "source": "If infected with the virus, the quarantine measure is a two week self-isolation.",
+    "target": "\u5982\u679c\u611f\u67d3\u75c5\u6bd2\uff0c\u9694\u79bb\u63aa\u65bd\u662f\u81ea\u6211\u9694\u79bb\u4e24\u5468\u3002"
+  },
+  {
+    "source": "Definition: Cheugy can be used, broadly, to describe someone who is out of date or trying too hard.\n\nYou old hags are all so cheugy and you don't even know it smh.",
+    "target": "\u4f60\u4eec\u8fd9\u4e9b\u8001\u592a\u5a46\u90fd\u8fd9\u4e48\u8c03\u76ae\uff0c\u4f60\u4eec\u81ea\u5df1\u90fd\u4e0d\u77e5\u9053\u3002"
+  },
+  {
+    "source": "You old hags are all so tacky and you don't even know it smh.",
+    "target": "\u4f60\u4eec\u8fd9\u4e9b\u8001\u592a\u5a46\u90fd\u8fd9\u4e48\u4fd7\u6c14\uff0c\u8fde\u4f60\u4eec\u81ea\u5df1\u90fd\u4e0d\u77e5\u9053\u3002"
+  }
+]
