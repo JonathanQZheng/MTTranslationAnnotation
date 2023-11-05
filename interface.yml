@@ -1,17 +1,22 @@
-# crowdsource: "prolific"                 
-# prolific_completion_code: "C7ST09CG" 
+crowdsource: "prolific"                 
+prolific_completion_code: "C7ST09CG" 
 
-# template_name: Neologism MT Using Thresh
-# template_label: Neologism MT Using Thresh
-# template_description: English Neologism translation quality inspection
+template_name: Neologism MT Using Thresh
+template_label: Neologism MT Using Thresh
+template_description: English Neologism translation quality inspection
 
-# database: 
-#   type: firebase
-#   project_id: mt-translation-f3caa
-#   url: https://mt-translation-f3caa.firebaseio.com/
-#   collection: thresh      # (default: thresh) The database to use, this must exist on the firestore
-#   document: annotation    # (default: annotation) The document to use, this must exist on the firestore
-#   field: main_s1p1 
+database: 
+  type: firebase
+  project_id: mt-translation-f3caa
+  url: https://mt-translation-f3caa.firebaseio.com/
+  collection: thresh      # (default: thresh) The database to use, this must exist on the firestore
+  document: annotation    # (default: annotation) The document to use, this must exist on the firestore
+  field: main_s1p1 
+
+instructions: |
+  ## Neologism translation evaluation
+  Please make sure you select the category that best describes the translation quality of the entire sentence
+
 
 edits:
   - name: good
