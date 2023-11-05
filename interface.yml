@@ -5,15 +5,6 @@ template_name: Neologism MT Using Thresh
 template_label: Neologism MT Using Thresh
 template_description: English Neologism translation quality inspection
 
-# instructions: |
-#   Neologism translation evaluation
-#   Please make sure you select the category that best describes the translation quality of the entire sentence
-
-interface_text:
-  typology:
-    context_label: English Input and Context
-    source_label: Chinese Translation
-
 database: 
   type: firebase
   project_id: mt-translation-f3caa
@@ -156,6 +147,7 @@ edits:
             label: Neologism
           - name: child_2
             label: Rest of Sentence
+
 interface_text:
   landing_page:
     header_text: Annotating with
