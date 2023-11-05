@@ -5,9 +5,9 @@ template_name: Neologism MT Using Thresh
 template_label: Neologism MT Using Thresh
 template_description: English Neologism translation quality inspection
 
-instructions: |
-  ## Neologism translation evaluation
-  Please make sure you select the category that best describes the translation quality of the entire sentence
+# instructions: |
+#   Neologism translation evaluation
+#   Please make sure you select the category that best describes the translation quality of the entire sentence
 
 interface_text:
   typology:
