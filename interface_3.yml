@@ -1,6 +1,8 @@
 crowdsource: "prolific"                 
 prolific_completion_code: "C7W8WI98" 
 
+tokenization: char
+
 template_name: Neologism MT Using Thresh
 template_label: Neologism MT Using Thresh
 template_description: English Neologism translation quality inspection
