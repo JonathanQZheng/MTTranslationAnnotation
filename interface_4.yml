@@ -11,7 +11,7 @@ database:
   url: https://mt-translation-f3caa.firebaseio.com/
   collection: thresh      # (default: thresh) The database to use, this must exist on the firestore
   document: annotations    # (default: annotation) The document to use, this must exist on the firestore
-  field: annotation_set_3
+  field: annotation_set_4
 
 instructions: |
   ## Neologism translation evaluation
